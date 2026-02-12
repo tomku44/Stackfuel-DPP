@@ -19,6 +19,7 @@ dependencies = [
     "entsoe-py >= 0.7.10",
     "pvlib>=0.15.0",
     "scikit-optimize>=0.10.2",
+    "geneticalgorithm>=1.0.2",
 ]
 
 [build-system]
